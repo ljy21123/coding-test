@@ -1,4 +1,4 @@
-package bronze;
+package Bronze.Bronze_I;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -7,7 +7,7 @@ import java.util.ArrayList;
 import java.util.StringTokenizer;
 
 // 약수들의 합
-public class ex9506 {
+public class p9506 {
 
     public static void main(String[] args) throws IOException {
 

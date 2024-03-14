@@ -1,4 +1,4 @@
-package bronze;
+package Bronze.Bronze_I;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -7,7 +7,7 @@ import java.util.StringTokenizer;
 import static java.lang.Math.sqrt;
 
 // 소인수분해
-public class ex11653 {
+public class p11653 {
 
     private void primeFactorization(int n) {
 
@@ -32,7 +32,7 @@ public class ex11653 {
 
         int n = Integer.parseInt(st.nextToken());
 
-        ex11653 ex = new ex11653();
+        p11653 ex = new p11653();
         ex.primeFactorization(n);
 
     }

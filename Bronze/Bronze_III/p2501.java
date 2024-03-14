@@ -1,4 +1,4 @@
-package bronze;
+package Bronze.Bronze_III;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -6,7 +6,7 @@ import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
 // 약수 구하기
-public class ex2501 {
+public class p2501 {
 
     public static void main(String[] args) throws IOException {
 

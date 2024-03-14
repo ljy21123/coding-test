@@ -1,9 +1,9 @@
-package bronze;
+package Bronze.Bronze_II;
 
 import java.util.Scanner;
 
 // 소수 찾기
-public class ex1978 {
+public class p1978 {
 
     public static void main(String[] args) {
 

@@ -1,8 +1,8 @@
-package bronze;
+package Bronze.Bronze_II;
 import java.util.Scanner;
 
 // 소수
-public class ex2581 {
+public class p2581 {
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);
