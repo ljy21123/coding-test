@@ -17,6 +17,8 @@ public class p24263 {
         System.out.println(n);
         System.out.println(1);
 
+        sc.close();
+
     }
 
 
