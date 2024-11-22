@@ -1,4 +1,3 @@
-package Bronze.Bronze_V;
 
 import java.io.BufferedReader;
 import java.io.IOException;

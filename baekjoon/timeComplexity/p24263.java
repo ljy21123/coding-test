@@ -1,4 +1,3 @@
-package Bronze.Bronze_IV;
 
 import java.util.Scanner;
 

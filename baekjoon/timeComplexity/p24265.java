@@ -1,9 +1,8 @@
-package Bronze.Bronze_III;
 
 import java.util.Scanner;
 
-// 알고리즘 수업 - 알고리즘의 수행 시간 3
-public class p24264 {
+// 알고리즘 수업 - 알고리즘의 수행 시간 4
+public class p24265 {
 
     public static void main(String[] args) {
 
@@ -16,7 +15,7 @@ public class p24264 {
         Scanner sc = new Scanner(System.in);
         long n = sc.nextLong();
 
-        System.out.println(n*n);
+        System.out.println(n*(n-1)/2);
         System.out.println(2);
 
     }

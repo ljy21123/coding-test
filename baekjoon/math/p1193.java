@@ -1,4 +1,3 @@
-package Silver.Silver_V;
 
 import java.util.Scanner;
 

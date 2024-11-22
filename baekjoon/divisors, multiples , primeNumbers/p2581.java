@@ -1,4 +1,4 @@
-package Bronze.Bronze_II;
+
 import java.util.Scanner;
 
 // 소수
