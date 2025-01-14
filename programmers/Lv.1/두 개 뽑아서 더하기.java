@@ -3,7 +3,7 @@ import java.util.*;
 class Solution {
     public int[] solution(int[] numbers) {
 
-        // 자동으로 중복값 제거, 정렬을 위한 트리셋
+        // 자동으로 중복값 제거와 정렬을 위한 트리셋
         TreeSet<Integer> answer = new TreeSet<>();
 
         // 서로 다른 인덱스에서 두개의 수 뽑기
